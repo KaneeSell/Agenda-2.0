@@ -67,7 +67,7 @@ Please change the parent <Route path="${de}"> to <Route path="${de==="/"?"*":`${
                 absolute z-2 top-0 left-0 flex justify-between 
                 bg-gray-400 text-white py-2 px-3 text-base
                 items-center
-                `,children:[D.jsxs("div",{onClick:()=>m("/"),className:"cursor-pointer text-2xl font-semibold flex gap-2 items-center",children:[D.jsx("img",{src:"/Agenda2.ico",width:"40px",alt:"Agenda-Icon"}),D.jsx("span",{children:"Agenda 2.0"})]}),D.jsxs("div",{className:"flex items-center gap-2",children:[D.jsxs("form",{className:"flex flex-row",children:[D.jsx("input",{className:`
+                `,children:[D.jsxs("div",{onClick:()=>m("/"),className:"cursor-pointer text-2xl font-semibold flex gap-2 items-center",children:[D.jsx("img",{src:"./Agenda2.ico",width:"40px",alt:"Agenda-Icon"}),D.jsx("span",{children:"Agenda 2.0"})]}),D.jsxs("div",{className:"flex items-center gap-2",children:[D.jsxs("form",{className:"flex flex-row",children:[D.jsx("input",{className:`
                             bg-gray-100 hover:bg-gray-200 rounded-2xl
                             border-b-2 border-b-green-600 text-gray-900
                             ps-3 h-9 w-35 ${sa.inputPesquisa}
